@@ -42,6 +42,6 @@ pip install pygame
 - **draw:** Renders graphics on the screen.
 ## Credits
 - **Evan Zhou**
-- **Vijay Shrivarshan Vijayaraja**
+- @vjvijayaraja
 - **Aiden Lim**
 - **Allan Wang**
