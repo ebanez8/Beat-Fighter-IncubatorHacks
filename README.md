@@ -18,25 +18,25 @@ To install Pygame:
 pip install pygame
 ```
 ## Game Controls
-**Arrow Keys:** Press the corresponding arrow keys (←, ↓, ↑, →) to match notes.
-**Quit:** Press the close button on the window or ESC key.
+- **Arrow Keys:** Press the corresponding arrow keys (←, ↓, ↑, →) to match notes.
+- **Quit:** Press the close button on the window or ESC key.
 ## File Structure
-**bg.png:** Background image.
-**character.png:** Idle player character image.
-**enemy.png:** Idle enemy character image.
-**Animation Frames:** Files like characterp1.1.png, characterp1.2.png, characterp1.3.png, enemyp1.1.png, enemyp1.2.png, enemyp1.3.png, etc., used for player and enemy animations.
+- **bg.png:** Background image.
+- **character.png:** Idle player character image.
+- **enemy.png:** Idle enemy character image.
+- **Animation Frames:** Files like characterp1.1.png, characterp1.2.png, characterp1.3.png, enemyp1.1.png, enemyp1.2.png, enemyp1.3.png, etc., used for player and enemy animations.
 ## How to Play
-Clone the repository and ensure all images are in the same directory as the code.
-Run the script using Python:
-bash
-Copy code
-python beat_fighter.py
-Follow the beat and press the corresponding arrow keys when notes align with the hit zone.
+- Clone the repository and ensure all images are in the same directory as the code.
+- Run the script using Python:
+- bash
+- Copy code
+- python beat_fighter.py
+- Follow the beat and press the corresponding arrow keys when notes align with the hit zone.
 ## Key Classes and Methods
-**Note:** Handles note properties and movement.
-**Game:** Main game loop, note spawning, health updates, score management, and rendering functions.
-**spawn_note:** Generates notes on random tracks.
-**draw_health_bar:** Draws the player's health bar.
-**check_note_hit:** Checks if a note is hit and animates accordingly.
-**update:** Updates game state, animations, and health.
-**draw:** Renders graphics on the screen.
+- **Note:** Handles note properties and movement.
+- **Game:** Main game loop, note spawning, health updates, score management, and rendering functions.
+- **spawn_note:** Generates notes on random tracks.
+- **draw_health_bar:** Draws the player's health bar.
+- **check_note_hit:** Checks if a note is hit and animates accordingly.
+- **update:** Updates game state, animations, and health.
+- **draw:** Renders graphics on the screen.
