@@ -40,3 +40,8 @@ pip install pygame
 - **check_note_hit:** Checks if a note is hit and animates accordingly.
 - **update:** Updates game state, animations, and health.
 - **draw:** Renders graphics on the screen.
+## Credits
+- **Evan Zhou**
+- **Vijay Shrivarshan Vijayaraja**
+- **Aiden Lim**
+- **Allan Wang**
