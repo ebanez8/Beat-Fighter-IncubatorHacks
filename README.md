@@ -16,7 +16,7 @@
 To install Pygame:
 ```bash
 pip install pygame
-
+```
 Game Controls
 Arrow Keys: Press the corresponding arrow keys (←, ↓, ↑, →) to match notes.
 Quit: Press the close button on the window or ESC key.
