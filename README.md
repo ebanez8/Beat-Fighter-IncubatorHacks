@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=xerIO8IrcDI&ab_channel=EvanZhou
 ## Introduction
 **Beat Fighter** is a rhythm-based fighting game created with Python and Pygame. Players must hit incoming notes accurately by pressing corresponding directional keys. Successful hits will attack the enemy, while misses reduce the player's health. With a mix of animations, health bars, and a scoring system, Beat Fighter delivers an engaging arcade experience.
 
+<img width="1866" alt="Beat fighter" src="https://github.com/user-attachments/assets/904b5148-9ca5-4a3e-9400-ee73ff901ae1">
+
+
 ## Features
 - **Rhythm-Based Gameplay**: Notes spawn in sync with a beat, and players must hit them in time to deal damage to the enemy.
 - **Enemy Attack Animation**: The enemy retaliates on missed notes, adding intensity to the gameplay.
